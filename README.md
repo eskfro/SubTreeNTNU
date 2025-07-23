@@ -1,1 +1,1 @@
-Hei fra ubuntu.
+Hei fra ubuntu, igjen. 
